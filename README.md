@@ -1,5 +1,5 @@
 # data_science_projects
 
-| Attempt | #1  | #2  |
+| Project description | #1  | #2  |
 | :-----: | :-: | :-: |
-| Seconds | 301 | 283 |
+| Predicting the probability of bank customers' churn | 301 | 283 |
