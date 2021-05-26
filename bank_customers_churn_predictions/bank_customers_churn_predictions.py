@@ -77,10 +77,6 @@ pd.set_option('display.max_columns', None)
 pd.options.mode.chained_assignment = None # Чтобы не появлялось предупреждение SettingWithCopy при масштабировании
 
 
-# <div class="alert alert-success">
-# <h1>Комментарий ревьюера <a class="tocSkip"></a></h1>
-# Молодец, что сгруппировал все импорты в одну ячейку, так удобнее и легче вносить изменения. Пользователь тетрадки  сразу поймет, что отсутствуют какие-то библиотеки
-# </div>
 
 # ## Получение первичной информации о данных
 
@@ -130,10 +126,6 @@ for column in list_for_strlower:
 # Циклом привели значения столбцов к нижнему регистру 
 
 
-# <div class="alert alert-success">
-# <h1>Комментарий ревьюера <a class="tocSkip"></a></h1>
-# Элегантное решение
-# </div>
 
 # In[5]:
 
