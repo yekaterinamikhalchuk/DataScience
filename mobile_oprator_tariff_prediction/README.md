@@ -1,0 +1,3 @@
+|Project description|Data used |Tasks |Conclusion |Libraries used |
+|:-|:-|:-|:-|:-|
+|Comments classification|Dataset with comments data and marking of positive and negative comments|<ul><li>Prepare data for analysis;</li><li>Use lemmatization</li><li>Create models for negative comment predioctions</li><li>Calculate F1 metric</li><li>Test the best model and prepare a summary</li></ul>|The optimal model for predicting negitive comments are both decision tree classifier and logistic regression as their f1 metric = 0.73 <ul>|<ul><li>Pandas</li><li>Numpy</li><li>Matplotlib.pyplot</li><li>LGBM</li><li>sklearn</li><li>TfidfVectorizer</li><li>WordNetLemmatizer</li></ul>|
