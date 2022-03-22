@@ -1,4 +1,4 @@
-# data_science_projects
+# Projects
 
 |№|Project name|Goal|Libraries Used|
 |:-|:-----------|:---|:-------------|
